@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "asdfa",
+    "owner": "adsfasf",
+    "description": "asdfasf"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Trust Boundary",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "asdfafs"
+  }
+}
